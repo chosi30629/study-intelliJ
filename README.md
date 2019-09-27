@@ -31,6 +31,14 @@ System.out.println(): sout
 윈도우, 리눅스: Ctrl + Y
 
 
+라인 잘라내기
+맥: Command + X
+
+
+포커스 기준 오른쪽 전부 삭제
+맥: Ctrl + K
+
+
 라인 합치기
 맥: Ctrl + Shift + J
 윈도우, 리눅스: Ctrl + Shift + J
